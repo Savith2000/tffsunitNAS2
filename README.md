@@ -38,7 +38,8 @@
 
 ### Surprise
 
-* If you run (node index.js surprise[the command word is(surprise)]).
+* If you run (node index.js surprise).
+* The command word is (surprise).
 * It will take whatever command you have in random.txt and run it.
 * As for your command line it should look something like this. 
 
